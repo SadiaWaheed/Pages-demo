@@ -145,6 +145,13 @@ h6 {
     flex-direction: column;
     align-items: center;
   }
+  
+}
+@media (max-width: 970px){
+body::before {
+  
+  background: #040404 top right no-repeat;
+}
 }
 
 /* Header Top */
